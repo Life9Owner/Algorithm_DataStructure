@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string.h>
 using namespace std;
- 
+ //hhh-
 int main()
 {
     int M;      //直线的数目

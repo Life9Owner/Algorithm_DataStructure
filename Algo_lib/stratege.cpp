@@ -73,6 +73,7 @@ PrintStrategy* getStrategy(int type) {
 
 int main() {
         Interval a(1.7,2.1);
+        std::cout<<"hello";
         a.printInterval(getStrategy(COMMA));
         a.printInterval(getStrategy(DOTS));
         a.printInterval(getStrategy(LINE));
